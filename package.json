@@ -1,6 +1,6 @@
 {
   "name": "redux-harvest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redux middleware that harvests promise actions",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,11 @@
     "harvest",
     "server",
     "async"
+  ],
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/"
   ],
   "author": "Istvan Jano",
   "license": "ISC",
